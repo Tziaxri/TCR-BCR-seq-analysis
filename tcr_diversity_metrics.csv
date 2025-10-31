@@ -1,0 +1,2 @@
+participant_id,repertoire_id,total_sequences,clone_richness,shannon_entropy,simpson_index,clonality,top_clone_frequency,mean_cdr3_length,participant_label,cmv_status,age,sex,ancestry
+BFI-0000234,M124-S014,14,14,2.639057329615258,0.9285714285714286,2.220446049250313e-16,0.07142857142857142,38.357142857142854,,,,,
